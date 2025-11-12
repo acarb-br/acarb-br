@@ -1,3 +1,65 @@
-🚗 Projeto ACARB
+🎯 O Problema
+O mercado de manutenção automotiva gera desconfiança crônica. Proprietários de veículos enfrentam medo de orçamentos inflados , insegurança sobre os serviços e perda de tempo na busca por profissionais confiáveis.
 
-Conceito Central: Uma plataforma digital (App e Web) que conecta proprietários de veículos a mecânicos e oficinas certificados, resolvendo a falta de confiança, agilidade e transparência no setor automotivo.
+
+
+
+💡 O Conceito ACARB
+O nome reflete os valores da nossa plataforma:
+
+
+Agilidade 
+
+
+Confiança 
+
+
+Assertividade 
+
+
+Resolução 
+
+
+Benefício 
+
+🚀 Foco do MVP (Produto Mínimo Viável)
+Para validar a proposta de valor rapidamente , o MVP terá foco em 5 funcionalidades essenciais:
+
+
+
+
+Cadastro e login de usuários e mecânicos.
+
+
+
+Perfil básico do mecânico.
+
+Busca por mecânico (localização e proximidade).
+
+
+
+Chat básico para combinar o serviço.
+
+
+
+Sistema de avaliação do mecânico.
+
+
+
+Estimativa de Prazo: Com foco no MVP, é possível lançar a primeira versão em até 2 meses.
+
+🛠️ Stack de Tecnologia (Proposta para o MVP)
+
+Front-end: HTML, CSS, JavaScript e React.
+
+
+Back-end: Java, Python ou Node.js.
+
+
+Banco de Dados: MySQL.
+
+
+Autenticação: JWT (JSON Web Tokens) + bcrypt.
+
+
+Infraestrutura: Firebase (para custos reduzidos no MVP).
