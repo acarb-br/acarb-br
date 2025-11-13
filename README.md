@@ -49,16 +49,7 @@ Estimativa de Prazo: Com foco no MVP, é possível lançar a primeira versão em
 
 🛠️ Stack de Tecnologia (Proposta para o MVP)
 
-Front-end: HTML, CSS, JavaScript e React.
-
-
-Back-end: Java, Python ou Node.js.
-
-
+Front-end:React.
+Back-end: Java.
 Banco de Dados: MySQL.
-
-
-Autenticação: JWT (JSON Web Tokens) + bcrypt.
-
-
 Infraestrutura: Firebase (para custos reduzidos no MVP).
